@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### welcome to mr code github 👋
+<b> i am mr code </b>
 <!--
 **mrcode-git/mrcode-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
