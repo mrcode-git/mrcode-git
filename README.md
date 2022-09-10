@@ -1,5 +1,5 @@
 <b> welcome to mr code github 👋</b>
-<center> <div style="background: rgb(100,100,255); height: 100px; width: 100%; border-radius: 10px;" > </div> </center>
+<center> MR CODE </center>
 <!--
 **mrcode-git/mrcode-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
