@@ -9,5 +9,5 @@
 <ol>
   <li> html </li>
   <li> css </li>
-  <li> <mark><sub>learning </sub></mark> javascript </li>
+  <li> javascript <sup><mark> learning </mark></sup>  </li>
 </ol>
